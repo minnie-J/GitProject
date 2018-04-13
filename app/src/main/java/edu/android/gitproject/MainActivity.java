@@ -8,7 +8,6 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     private TextView textView;
-    private Button button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -16,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         textView = findViewById(R.id.textView);
-        Button botton = findViewById(R.id.button);
+        Button button = findViewById(R.id.button);
 
     }
 }
