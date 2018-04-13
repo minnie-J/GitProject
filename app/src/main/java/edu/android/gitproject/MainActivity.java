@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = findViewById(R.id.textView);
         Button button = findViewById(R.id.button);
 
-        textView.setText("안녕~");
+        textView.setText("안녕~!!!!!");
     }
 }
