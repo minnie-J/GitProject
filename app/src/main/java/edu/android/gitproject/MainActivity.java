@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("안녕~!!!!!");
         textView.setText("어서오세요!!");
         textView.setText("놀러와요");
+        textView.setText("테스트");
     }
 }
